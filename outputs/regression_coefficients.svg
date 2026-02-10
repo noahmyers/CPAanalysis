@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="340">
+<style>text{font-family:Arial,sans-serif;} .lbl{font-size:15px;} .tick{font-size:13px;fill:#333;} .title{font-size:20px;font-weight:bold;} .sub{font-size:13px;fill:#555;}</style>
+<rect x="0" y="0" width="100%" height="100%" fill="white"/>
+<text x="20" y="28" class="title">Association model coefficients (OLS on ordered intent scale)</text>
+<text x="20" y="46" class="sub">Points = coefficients; horizontal bars = 95% CI; dashed line at 0.</text>
+<line x1="586.7" y1="50" x2="586.7" y2="305" stroke="#999" stroke-dasharray="6,6"/>
+<line x1="260.0" y1="310" x2="260.0" y2="316" stroke="#666"/>
+<text x="260.0" y="332" text-anchor="middle" class="tick">-0.55</text>
+<line x1="384.0" y1="310" x2="384.0" y2="316" stroke="#666"/>
+<text x="384.0" y="332" text-anchor="middle" class="tick">-0.34</text>
+<line x1="508.0" y1="310" x2="508.0" y2="316" stroke="#666"/>
+<text x="508.0" y="332" text-anchor="middle" class="tick">-0.13</text>
+<line x1="632.0" y1="310" x2="632.0" y2="316" stroke="#666"/>
+<text x="632.0" y="332" text-anchor="middle" class="tick">0.08</text>
+<line x1="756.0" y1="310" x2="756.0" y2="316" stroke="#666"/>
+<text x="756.0" y="332" text-anchor="middle" class="tick">0.28</text>
+<line x1="880.0" y1="310" x2="880.0" y2="316" stroke="#666"/>
+<text x="880.0" y="332" text-anchor="middle" class="tick">0.49</text>
+<line x1="354.6" y1="95" x2="580.4" y2="95" stroke="#1f77b4" stroke-width="3"/>
+<circle cx="467.5" cy="95" r="6" fill="#d62728"/>
+<text x="250" y="100" text-anchor="end" class="lbl">Q6: What is your overall perception of the change to CPA licensure pa...</text>
+<text x="588.4" y="100" class="tick">β=-0.20</text>
+<line x1="513.6" y1="165" x2="785.4" y2="165" stroke="#1f77b4" stroke-width="3"/>
+<circle cx="649.5" cy="165" r="6" fill="#d62728"/>
+<text x="250" y="170" text-anchor="end" class="lbl">Q51: How has the availability of (or knowledge about) the alternative ...</text>
+<text x="793.4" y="170" class="tick">β=0.10</text>
+<line x1="536.7" y1="235" x2="737.8" y2="235" stroke="#1f77b4" stroke-width="3"/>
+<circle cx="637.2" cy="235" r="6" fill="#d62728"/>
+<text x="250" y="240" text-anchor="end" class="lbl">Q25: Instead of a full graduate program, how attractive would you find...</text>
+<text x="745.8" y="240" class="tick">β=0.08</text>
+</svg>
